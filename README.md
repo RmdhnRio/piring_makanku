@@ -1,10 +1,10 @@
 # piring_makanku
 
-A new Flutter project.
+Project Piring_Makanku
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Project ini ditujukan untuk mengajarkan informasi seputar program Kementerian Kesehatan Piring Makanku 
 
 A few resources to get you started if this is your first Flutter project:
 
